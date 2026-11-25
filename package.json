@@ -1,0 +1,1 @@
+{"description":"One Word From Your Ex — make.fun entry: the single word an ex would use to describe you.","license":"MIT","main":"main.ts","name":"one-word-from-your-ex","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
